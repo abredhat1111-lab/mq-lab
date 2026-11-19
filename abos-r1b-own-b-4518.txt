@@ -1,0 +1,1 @@
+ABOS R1b 4518: harmless line B on a same-repo branch.
